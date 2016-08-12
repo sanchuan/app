@@ -23,7 +23,7 @@
 					
        <key>url</key>
 
-       <string>http://home.myvip18.com:8080/UpdateWizardServer/sanchuanIosApp/smessage/update/OA-message.ipa</string>
+       <string>http://home.myvip18.com:8080/UpdateWizardServer/sanchuanIosApp/smessage/update/s-message.ipa</string>
 				          </dict>
 				
    <dict>
@@ -50,7 +50,7 @@
 				
 <key>bundle-identifier</key>
 				
-<string>com.OA-message</string>
+<string>com.S-messageCompany</string>
 				
 <key>bundle-version</key>
 				
@@ -62,7 +62,7 @@
 				
 <key>subtitle</key>
 				
-<string>OAmessage</string>
+<string>Smessage</string>
 				
 <key>title</key>
 				
