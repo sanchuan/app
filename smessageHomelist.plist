@@ -23,7 +23,7 @@
 					
        <key>url</key>
 
-       <string>http://home.myvip18.com:8080/UpdateWizardServer/sanchuanIosApp/smessage/update/s-messageCompany.ipa</string>
+       <string>http://home.myvip18.com:8080/UpdateWizardServer/sanchuanIosApp/smessage/update/SCMessage.ipa</string>
 				          </dict>
 				
    <dict>
@@ -60,13 +60,13 @@
 				
 <string>software</string>
 				
-<key>subtitle</key>
+<key>SCMessage</key>
 				
 <string>Smessage</string>
 				
 <key>title</key>
 				
-<string>SmessageCompany</string>
+<string>SCMessage</string>
 			
 </dict>
 		
